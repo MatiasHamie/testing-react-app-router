@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <HeroScreen /> Debe mostrarse correctamente el redirect si no hay argumentos en el URL 1`] = `""`;
